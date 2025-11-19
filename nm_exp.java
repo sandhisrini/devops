@@ -3,3 +3,4 @@ public class nm_exp{
         System.out.pintln("hello world");
      }
 }
+hello
